@@ -1,0 +1,12 @@
+/home/tak/ownDev/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/tak/ownDev/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/home/tak/ownDev/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/tak/ownDev/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/tak/ownDev/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

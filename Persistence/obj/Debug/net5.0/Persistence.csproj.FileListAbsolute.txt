@@ -1,0 +1,15 @@
+/home/tak/ownDev/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/home/tak/ownDev/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/home/tak/ownDev/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/home/tak/ownDev/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/home/tak/ownDev/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/home/tak/ownDev/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/home/tak/ownDev/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb

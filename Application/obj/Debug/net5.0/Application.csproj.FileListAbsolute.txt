@@ -1,0 +1,17 @@
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Application.dll
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/ref/Application.dll
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Application.pdb
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Domain.dll
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Persistence.dll
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Persistence.pdb
+/home/tak/ownDev/Reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.csproj.AssemblyReference.cache
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.dll
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/ref/Application.dll
+/home/tak/ownDev/Reactivities/Application/obj/Debug/net5.0/Application.pdb
