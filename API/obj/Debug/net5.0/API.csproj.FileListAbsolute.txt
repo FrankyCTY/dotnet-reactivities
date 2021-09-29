@@ -65,3 +65,6 @@
 /home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/MediatR.dll
 /home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/mono_crash.21acb2c4bb.1.json
+/home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/AutoMapper.dll
+/home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/mono_crash.21acb2c4bb.2.json
