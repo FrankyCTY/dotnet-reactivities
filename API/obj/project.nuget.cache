@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hmyUo73rCjIuNr5vvmichGGuoAXZ/e45YLY38vogk4S0QwaBRNc8rBkqcN150hk1+UfCCnE3Ay/tOf95Yk0l1w==",
+  "dgSpecHash": "/DGp7Jo1XWN3hkYKeAZD1XewgOT1J/nF5MUBEGsvgAp/yuHYSMF3331u+d57DDyPCL6jdne/TLC0QSsPMwq0GA==",
   "success": true,
   "projectFilePath": "/home/tak/ownDev/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/tak/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/tak/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/home/tak/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/home/tak/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/tak/.nuget/packages/microsoft.data.sqlite.core/5.0.10/microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
     "/home/tak/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

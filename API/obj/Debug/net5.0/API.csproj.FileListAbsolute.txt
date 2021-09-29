@@ -62,3 +62,6 @@
 /home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/mono_crash.21acb2c4bb.0.json
 /home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/Humanizer.dll
 /home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/MediatR.dll
+/home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/home/tak/ownDev/Reactivities/API/bin/Debug/net5.0/mono_crash.21acb2c4bb.1.json
